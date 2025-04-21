@@ -391,11 +391,11 @@ hardware_screw_countersunk_m3_black_6_mm_length_hex_head:
   webpage_manufacturer_metalmate: https://www.harclob2b.com/m3-x-6-socket-csk-screw-gr10-9-self-colour-din-799-1151m390006
   weight: '0.358'
   weight_10: '3.58'
-project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_9_width_7_height_39_mm_depth:
+project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_8_width_7_height_35_0_mm_depth:
   classification: project
   color: oomlout_oobb_holder_computer_network_swi
   description_extra: ''
-  description_main: base_9_width_7_height_39_mm_depth
+  description_main: base_8_width_7_height_35_0_mm_depth
   full_rotations:
   - 0
   - 0
@@ -404,8 +404,8 @@ project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_9_width_7_h
   - 0
   - 0
   - 0
-  id: project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_9_width_7_height_39_mm_depth
-  id_oobb: oobb_part_oomlout_oobb_holder_computer_network_swi_base_9_width_7_height_39_mm_depth
+  id: project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_8_width_7_height_35_0_mm_depth
+  id_oobb: oobb_part_oomlout_oobb_holder_computer_network_swi_base_8_width_7_height_35_0_mm_depth
   kwargs:
     filter: ''
     height: 7
@@ -415,7 +415,7 @@ project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_9_width_7_h
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
-    oomp_description_main: base_9_width_7_height_39_mm_depth
+    oomp_description_main: base_8_width_7_height_35_0_mm_depth
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
@@ -423,10 +423,10 @@ project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_9_width_7_h
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
-    thickness: 39
+    thickness: 35.0
     typ: all
     type: oomlout_oobb_holder_computer_network_swi_base
-    width: 9
+    width: 8
   manufacturer: ''
   name: base
   part_number: ''
