@@ -19,7 +19,7 @@ parts:
       height: 7
       modes:
       - 3dpr
-      navigation: false
+      navigation: true
       oomp_classification: project
       oomp_color: oomlout_oobb_holder_computer_network_swi
       oomp_description_extra: ''
@@ -27,11 +27,12 @@ parts:
       oomp_manufacturer: ''
       oomp_mode: project
       oomp_part_number: ''
-      oomp_run: false
+      oomp_run: true
       oomp_size: oomlout
       oomp_type: github
       overwrite: true
       thickness: 35.0
+      typ: all
       type: oomlout_oobb_holder_computer_network_swi_base
       width: 8
     manufacturer: ''
