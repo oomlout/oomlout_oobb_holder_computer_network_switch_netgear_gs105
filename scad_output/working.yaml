@@ -1,4 +1,45 @@
-parts: {}
+parts:
+  base_8_width_7_height_35_0_mm_depth:
+    classification: project
+    color: oomlout_oobb_holder_computer_network_swi
+    description_extra: ''
+    description_main: base_8_width_7_height_35_0_mm_depth
+    full_rotations:
+    - 0
+    - 0
+    - 0
+    full_shift:
+    - 0
+    - 0
+    - 0
+    id: project_github_oomlout_oomlout_oobb_holder_computer_network_swi_base_8_width_7_height_35_0_mm_depth
+    id_oobb: oobb_part_oomlout_oobb_holder_computer_network_swi_base_8_width_7_height_35_0_mm_depth
+    kwargs:
+      filter: ''
+      height: 7
+      modes:
+      - 3dpr
+      navigation: false
+      oomp_classification: project
+      oomp_color: oomlout_oobb_holder_computer_network_swi
+      oomp_description_extra: ''
+      oomp_description_main: base_8_width_7_height_35_0_mm_depth
+      oomp_manufacturer: ''
+      oomp_mode: project
+      oomp_part_number: ''
+      oomp_run: false
+      oomp_size: oomlout
+      oomp_type: github
+      overwrite: true
+      thickness: 35.0
+      type: oomlout_oobb_holder_computer_network_swi_base
+      width: 8
+    manufacturer: ''
+    name: base
+    part_number: ''
+    project_name: C:\gh\oomlout_oobb_holder_computer_network_switch_netgear_gs105
+    size: oomlout
+    type: github
 project_id: oomlout_oobb_holder_computer_network_switch_netgear_gs105
 project_name: Oomlout oobb holder computer network switch netgear gs105
 project_repo: https://github.com/oomlout/oomlout_oobb_holder_computer_network_switch_netgear_gs105

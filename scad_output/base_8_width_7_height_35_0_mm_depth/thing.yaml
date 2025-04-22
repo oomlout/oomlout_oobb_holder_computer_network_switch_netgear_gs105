@@ -17,7 +17,7 @@ kwargs:
   height: 7
   modes:
   - 3dpr
-  navigation: true
+  navigation: false
   oomp_classification: project
   oomp_color: oomlout_oobb_holder_computer_network_swi
   oomp_description_extra: ''
@@ -25,12 +25,11 @@ kwargs:
   oomp_manufacturer: ''
   oomp_mode: project
   oomp_part_number: ''
-  oomp_run: true
+  oomp_run: false
   oomp_size: oomlout
   oomp_type: github
   overwrite: true
   thickness: 35.0
-  typ: all
   type: oomlout_oobb_holder_computer_network_swi_base
   width: 8
 manufacturer: ''
@@ -9668,7 +9667,7 @@ thing:
     height: 7
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9676,7 +9675,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9684,10 +9683,9 @@ thing:
     - 0
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_plate
     thickness: 35.0
-    typ: all
     type: positive
     width: 8
   - depth: 35.0
@@ -9695,7 +9693,7 @@ thing:
     height: 1
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9703,7 +9701,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9711,10 +9709,9 @@ thing:
     - 0
     - -22.5
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_plate
     thickness: 35.0
-    typ: all
     type: positive
     width: 8
   - depth: 35.0
@@ -9722,7 +9719,7 @@ thing:
     height: 1
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9730,7 +9727,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9738,10 +9735,9 @@ thing:
     - 0
     - 22.5
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_plate
     thickness: 35.0
-    typ: all
     type: positive
     width: 8
   - both_holes: true
@@ -9753,7 +9749,7 @@ thing:
     - bottom
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9761,7 +9757,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9769,10 +9765,9 @@ thing:
     - 0
     - 0
     - 0
-    save_type: all
+    save_type: none
     shape: oobb_holes
     thickness: 35.0
-    typ: all
     type: p
     width: 8
   - depth: 4.5
@@ -9781,7 +9776,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9789,7 +9784,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9798,10 +9793,9 @@ thing:
     - 37.5
     - 4.5
     radius_name: m3_screw_wood
-    save_type: all
+    save_type: none
     shape: oobb_screw_countersunk
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 4.5
@@ -9810,7 +9804,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9818,7 +9812,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9827,10 +9821,9 @@ thing:
     - 37.5
     - 4.5
     radius_name: m3_screw_wood
-    save_type: all
+    save_type: none
     shape: oobb_screw_countersunk
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 4.5
@@ -9839,7 +9832,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9847,7 +9840,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9856,10 +9849,9 @@ thing:
     - -37.5
     - 4.5
     radius_name: m3_screw_wood
-    save_type: all
+    save_type: none
     shape: oobb_screw_countersunk
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 4.5
@@ -9868,7 +9860,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -9876,7 +9868,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -9885,10 +9877,9 @@ thing:
     - -37.5
     - 4.5
     radius_name: m3_screw_wood
-    save_type: all
+    save_type: none
     shape: oobb_screw_countersunk
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -9899,7 +9890,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -9908,7 +9899,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -9918,10 +9909,9 @@ thing:
     - -22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -9932,7 +9922,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -9941,7 +9931,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -9951,10 +9941,9 @@ thing:
     - -22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -9965,7 +9954,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -9974,7 +9963,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -9984,10 +9973,9 @@ thing:
     - -22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -9998,7 +9986,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -10007,7 +9995,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -10017,10 +10005,9 @@ thing:
     - -22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -10031,7 +10018,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -10040,7 +10027,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -10050,10 +10037,9 @@ thing:
     - 22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - clearance:
@@ -10064,7 +10050,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     nut: true
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
@@ -10073,7 +10059,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overhang: true
@@ -10083,10 +10069,9 @@ thing:
     - 22.5
     - 25
     radius_name: m3
-    save_type: all
+    save_type: none
     shape: oobb_screw_socket_cap
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - filter: ''
@@ -10094,7 +10079,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -10102,7 +10087,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -10110,14 +10095,13 @@ thing:
     - -47.125
     - -50.625
     - 4.5
-    save_type: all
+    save_type: none
     shape: cube
     size:
     - 94.25
     - 101.25
     - 27.75
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 3
@@ -10126,7 +10110,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -10134,7 +10118,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -10143,10 +10127,9 @@ thing:
     - 30.5
     - 4.5
     radius: 5.0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 3
@@ -10155,7 +10138,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -10163,7 +10146,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -10172,10 +10155,9 @@ thing:
     - 30.5
     - 4.5
     radius: 5.0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 3
@@ -10184,7 +10166,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -10192,7 +10174,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -10201,10 +10183,9 @@ thing:
     - -34.5
     - 4.5
     radius: 5.0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   - depth: 3
@@ -10213,7 +10194,7 @@ thing:
     m: '#'
     modes:
     - 3dpr
-    navigation: true
+    navigation: false
     oomp_classification: project
     oomp_color: oomlout_oobb_holder_computer_network_swi
     oomp_description_extra: ''
@@ -10221,7 +10202,7 @@ thing:
     oomp_manufacturer: ''
     oomp_mode: project
     oomp_part_number: ''
-    oomp_run: true
+    oomp_run: false
     oomp_size: oomlout
     oomp_type: github
     overwrite: true
@@ -10230,32 +10211,31 @@ thing:
     - -34.5
     - 4.5
     radius: 5.0
-    save_type: all
+    save_type: none
     shape: oobb_cylinder
     thickness: 35.0
-    typ: all
     type: negative
     width: 8
   components_string:
-  - oobb_plate_shape_positive_type_4.5_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_plate_shape_positive_type_35.0_depth_0_-22.5_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_1_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_plate_shape_positive_type_35.0_depth_0_22.5_0_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_1_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_holes_shape_p_type_4.5_depth_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_both_holes_'top'_'bottom'_holes
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_-52.5_37.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_52.5_37.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_-52.5_-37.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_52.5_-37.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_-22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_-22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_-22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_-22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_22.5_25_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
-  - cube_shape_negative_type_-47.125_-50.625_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_94.25_101.25_27.75_size
-  - oobb_cylinder_shape_negative_type_3_depth_-35_30.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
-  - oobb_cylinder_shape_negative_type_3_depth_35_30.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
-  - oobb_cylinder_shape_negative_type_3_depth_-35_-34.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
-  - oobb_cylinder_shape_negative_type_3_depth_35_-34.5_4.5_pos_all_typ_all_save_type_true_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_true_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
+  - oobb_plate_shape_positive_type_4.5_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_plate_shape_positive_type_35.0_depth_0_-22.5_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_1_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_plate_shape_positive_type_35.0_depth_0_22.5_0_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_1_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_holes_shape_p_type_4.5_depth_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_both_holes_'top'_'bottom'_holes
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_-52.5_37.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_52.5_37.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_-52.5_-37.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_screw_countersunk_shape_negative_type_m3_screw_wood_radius_name_4.5_depth_52.5_-37.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_-22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_-22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_-22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_-22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_-52.5_22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - oobb_screw_socket_cap_shape_negative_type_m3_radius_name_25_depth_52.5_22.5_25_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_true_nut_true_overhang_'top'_clearance
+  - cube_shape_negative_type_-47.125_-50.625_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_94.25_101.25_27.75_size
+  - oobb_cylinder_shape_negative_type_3_depth_-35_30.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
+  - oobb_cylinder_shape_negative_type_3_depth_35_30.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
+  - oobb_cylinder_shape_negative_type_3_depth_-35_-34.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
+  - oobb_cylinder_shape_negative_type_3_depth_35_-34.5_4.5_pos_none_save_type_false_navigation_true_overwrite_'3dpr'_modes_project_oomp_mode_false_oomp_run_8_width_7_height_35.0_thickness_project_oomp_classification_github_oomp_type_oomlout_oomp_size_oomlout_oobb_holder_computer_network_swi_oomp_color_5.0_radius
   description: oomlout oobb holder computer network swi base 8x7x35.0
   description_extra: ''
   description_main: 8_width_7_height_35_0_mm_depth

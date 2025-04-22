@@ -154,7 +154,7 @@ def make_scad(**kwargs):
         scad_help.generate_navigation(sort = sort)
 
 def get_base(thing, **kwargs):
-    prepare_print = kwargs.get("prepare_print", True)
+    prepare_print = kwargs.get("prepare_print", False)
     width = kwargs.get("width", 1)
     height = kwargs.get("height", 1)
     depth = kwargs.get("thickness", 3)                    
@@ -165,7 +165,7 @@ def get_base(thing, **kwargs):
 
     depth_base = 4.5
 
-    strap_heights = [2.5, height - 2.5]
+    strap_heights = [2.5, height-1.5]
 
 
     #add plate
@@ -192,7 +192,7 @@ def get_base(thing, **kwargs):
     y_heights = strap_heights
     for y_height in y_heights:
         pos11 = copy.deepcopy(pos1)    
-        pos11[1] += -(height*15/2) + y_height * 15
+        pos11[1] += -(height*15/2) + (y_height * 15) - 15/2
         p3["pos"] = pos11
         oobb_base.append_full(thing,**p3)
 
@@ -207,7 +207,7 @@ def get_base(thing, **kwargs):
     p3["both_holes"] = True  
     p3["depth"] = depth_base
     p3["holes"] = ["top", "bottom"]
-    p3["m"] = "#"
+    #p3["m"] = "#"
     pos1 = copy.deepcopy(pos)         
     p3["pos"] = pos1
     oobb_base.append_full(thing,**p3)
@@ -255,7 +255,7 @@ def get_base(thing, **kwargs):
         p3["overhang"] = True
         depth_screw = 25
         p3["depth"] = depth_screw
-        p3["clearance"] = ["top","bottom"]
+        p3["clearance"] = ["top"]# ["top"]#,"bottom"]
         p3["m"] = "#"
         #p3["zz"] = "top"
         poss = []
@@ -267,10 +267,10 @@ def get_base(thing, **kwargs):
                 shift_y = 3/2*15
                 pos11 = copy.deepcopy(pos1)
                 pos11[0] += -shift_x
-                pos11[1] += -(height*15/2) + y_height * 15
+                pos11[1] += -(height*15/2) + y_height * 15 - 15/2
                 pos13 = copy.deepcopy(pos1)
                 pos13[0] += shift_x
-                pos13[1] += -(height*15/2) + y_height * 15
+                pos13[1] += -(height*15/2) + y_height * 15 - 15/2
                 poss.append(pos11)
                 poss.append(pos13)            
             p3["pos"] = poss
